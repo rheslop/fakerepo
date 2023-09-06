@@ -1,1 +1,1 @@
-This file.
+This file should have 3 commits.
